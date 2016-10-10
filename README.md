@@ -1,2 +1,2 @@
 # ML-with-Octave
-Self studying notes.
+A 18-page self studying notes for basic algorithms and Octave methods.
